@@ -1,4 +1,0 @@
-Goodbye
-Hello
-Hello World
-hello
